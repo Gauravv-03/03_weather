@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import Credit from './components/Credit';
+
 
 import SearchEngine from "./SearchEngine";
 import Forecast from "./Forecast";
